@@ -10,7 +10,7 @@ In this we have build a Complex Expense Budget Tracker. Using advanced React & J
 
 ---
 ## Project Link :
-https://Vocal-budget-tracker.netlify.app/
+https://Vocal-expense-tracker.netlify.app/
 
 ---
 ## Setup:
